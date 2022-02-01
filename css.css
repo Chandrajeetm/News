@@ -1,0 +1,25 @@
+.heading{
+    background-color: rgba(148, 148, 148, 0.335);
+    width: 250px;
+   padding-left: 10px;
+   
+    box-shadow: 7px 7px 7px #888888;
+  
+}
+.newnavbar{
+    background-color: rgba(9, 10, 10, 0.294);
+}
+  #myshadow{
+    box-shadow: rgba(50, 50, 85, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.678) 0px 30px 60px -30px, rgba(4, 10, 17, 0.541) 0px -2px 6px 0px inset;
+  }
+  #shadow{
+    box-shadow: 7px 7px 7px #888888;
+  }
+ .flexy{
+     display: flex;
+ }
+ 
+  #shadow3{
+      height: 7px;
+    box-shadow: 7px 7px 7px #888888;
+  }
